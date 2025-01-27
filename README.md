@@ -1,0 +1,1 @@
+The PortfolioCraft is web application that enables users to create, edit and manage professional portfolios with features for adding, updating and deleting entries. It uses SpringBoot, Thymleaf and relational databases for data persistence, ideal for professional and students to showcase the profiles.
